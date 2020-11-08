@@ -3,3 +3,4 @@
     const name ="Keshav Sharma";
     console.log(name);
 })();
+console.log(__dirname);
